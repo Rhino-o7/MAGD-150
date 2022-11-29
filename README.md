@@ -15,4 +15,3 @@ I created an array of pumpkins that fall down from the top of the canvas and if 
 [Visit GitHub Repository](https://github.com/Pizza-R42/MAGD-150).
 
 
-
