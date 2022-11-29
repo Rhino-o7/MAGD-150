@@ -11,7 +11,7 @@ When you click on the canvas a new square will pop up and start to bounce left a
 ## Project 7
 **This project’s goal was to create movement with an array of objects.** <br>
 I created an array of pumpkins that fall down from the top of the canvas and if the mouse appears in front of a pumpkin, a face will appear on the pumpkin. 
-<br>
+<br/><br/>
 [Visit GitHub Repository](https://github.com/Pizza-R42/MAGD-150).
 
 
