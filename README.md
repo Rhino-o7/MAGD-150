@@ -1,4 +1,5 @@
 # MAGD-150
+## Projects from the MAGD-150 class using p5.js
 
 ## Project 2
 **This project’s goal was to create a scene in space.** <br>
